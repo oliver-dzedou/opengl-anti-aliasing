@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing to opengl-anti-aliasing
 
 Thank you for considering contributing to this project! We welcome contributions of all kinds—from bug reports and documentation improvements to new features and code enhancements.
 
